@@ -1,0 +1,75 @@
+V "GNAT Lib v4.4"
+P SS ZX
+R nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnvnnnnnnnnnnnnnvnnnnnnnnnnnnnnnnnnnnn
+
+U chat_messages%s	chat_messages.ads	c600f61a NE OO PK
+W ada.tags%s		a-tags.adb		a-tags.ali
+W lower_layer_udp%s	lower_layer_udp.adb	lower_layer_udp.ali
+
+D ada.ads		20070406091342 9c7dd3ea
+D a-except.ads		20090409232307 b54b55de
+D a-finali.ads		20090409232307 9eaacebd
+D a-filico.ads		20090409232307 9299732a
+D a-reatim.ads		20090409232307 7c462ab4
+D a-stream.ads		20090409232307 34aca5be
+D a-tags.ads		20090409232307 bfa07446
+D a-taside.ads		20090409232307 ed6367a8
+D a-unccon.ads		20070406091342 51e09df2
+D ada_sockets.ads	20080723100827 bead7ec5
+D c_sockets.ads		20120529214139 e5047871
+D c_sockets_arch.ads	20120529194800 90a63cb6
+D chat_messages.ads	20130110094336 65c5bdb9
+D concurrency.ads	20081111152635 234e1895
+D interfac.ads		20090409232307 a69cad5c
+D i-c.ads		20070406091342 bc3ef662
+D i-cstrin.ads		20090409232307 841d8a31
+D keyed_lists_generic.ads  20080723100827 649cc8d8
+D lists_generic.ads	20080723100827 9d1f6824
+D lower_layer.ads	20080723100827 73b92197
+D lower_layer-inet.ads	20080723100827 12a1a879
+D lower_layer-inet-udp.ads  20080723100827 8f5fdc7b
+D lower_layer-inet-udp-uni.ads  20080723100827 5ee7f99b
+D lower_layer_udp.ads	20080723100827 a3c54ba3
+D system.ads		20100127090222 df55302f
+D s-atacco.ads		20090409232307 60789a20
+D s-exctab.ads		20090409232307 5c1c61ae
+D s-finimp.ads		20090409232307 9449f4cb
+D s-finroo.ads		20090409232307 1408f9d1
+D s-linux.ads		20090409232307 ad070dbe
+D s-osinte.ads		20080408064315 b04c0edf
+D s-parame.ads		20090409232307 f32e56e9
+D s-secsta.ads		20090409232307 7bae3621
+D s-soflin.ads		20090409232307 0c6fd39d
+D s-stache.ads		20090409232307 257b3be8
+D s-stausa.ads		20090409232307 6ab7dd35
+D s-stalib.ads		20090409232307 52b793d5
+D s-stoele.ads		20090409232307 ed966df3
+D s-stoele.adb		20090409232307 e9998c78
+D s-stratt.ads		20090409232307 fef7c1da
+D s-tasinf.ads		20090409232307 268f0cd4
+D s-taspri.ads		20080408071349 5459bcd0
+D s-taprop.ads		20090409232307 25a7965c
+D s-taskin.ads		20090409232307 376ff2dd
+D s-taprob.ads		20090409232307 5e00115c
+D s-tpoben.ads		20090409232307 37be425d
+D s-tassta.ads		20090409232307 71d2b71d
+D s-traent.ads		20090409232307 bd5f2753
+D s-unstyp.ads		20090409232307 c0f9fae5
+D unchdeal.ads		20070406091342 66b7fd29
+X 13 chat_messages.ads
+5K9*Chat_Messages 16l5 16e18
+7K17*LLU=7:29 11r35
+9E14*Message_Type 9e74
+9n31*Init{9E14}
+9n37*Reject{9E14}
+9n45*Confirm{9E14}
+9n54*Writer{9E14}
+9n62*Logout{9E14}
+9n70*Ack{9E14}
+11P14*Buffer_A_T(24|8R12) 13r24 14r27
+13p9*P_Buffer_Main{11P14}
+14p9*P_Buffer_Handler{11P14}
+X 24 lower_layer_udp.ads
+4K9*Lower_Layer_UDP 13|3w6 7r29 24|150e20
+8R12*Buffer_Type{20|58R9} 13|11r39
+
